@@ -1,4 +1,4 @@
-# LinkedIn Job Market Analysis 📊
+# LinkedIn Job Market Analysis 
 
 ## Overview
 An end-to-end data analytics project analyzing **123,849 LinkedIn job postings** to uncover hiring trends, salary insights, and job market patterns across the United States.
